@@ -1,0 +1,21 @@
+body {
+    color: #fff;
+}
+/* This comment only for high score file*/
+
+.high-score {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.high_sc{
+    text-align: center;
+    font: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#highScoresList {
+    list-style: none;
+    margin-bottom: 4rem;
+}
+
